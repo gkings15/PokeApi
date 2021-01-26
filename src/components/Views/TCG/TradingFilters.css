@@ -1,0 +1,12 @@
+.divTop{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    margin-right: 30px;
+  }
+
+  .divLeft{
+    display: flex;
+    flex-direction: row;
+    width: auto;
+  }

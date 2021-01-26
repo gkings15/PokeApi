@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-image: url(../../assets/pokeFondo.jpg);
+    background-position: center;
+    background-size: 40%;
+}
+
+.icon{
+    width: 150px;
+}
